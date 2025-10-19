@@ -5,7 +5,7 @@
   "dependencies": {
     "@microsoft/microsoft-graph-client": "^1.0.0",
     "adal-angular": "^1.0.17",
-    "axios": "^0.18.0",
+    "axios": "^0.30.2",
     "bingmaps": "^2.0.3",
     "classnames": "^2.2.6",
     "history": "^4.7.2",
